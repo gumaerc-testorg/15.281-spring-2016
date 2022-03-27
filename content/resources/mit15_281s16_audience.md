@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5a37ccf6-a32a-aab5-b3fa-5e00f7b10eb5
 resourcetype: Document
 title: Presentation to a Hostile Audience - 15.281 Spring 2016
 uid: e7b19861-b2e1-fc85-acfe-eed5e46b2f6c

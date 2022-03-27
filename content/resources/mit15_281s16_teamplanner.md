@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5a37ccf6-a32a-aab5-b3fa-5e00f7b10eb5
 resourcetype: Document
 title: MIT15_281S16_SpeechAssign.pdf
 uid: c8da4250-043a-1929-fa7c-ae7e9f48f5fa
