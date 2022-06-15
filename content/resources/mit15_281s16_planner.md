@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/15-281-advanced-communication-for-leaders-spring-2016/963ccf8da1656415e64794df63473f62_MIT15_281S16_Planner.pdf
+file: /courses/15-281-advanced-communication-for-leaders-spring-2016/963ccf8da1656415e64794df63473f62_MIT15_281S16_Planner.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
