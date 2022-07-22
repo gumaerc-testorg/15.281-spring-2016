@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: Lecture notes for the course are available in this section.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 2f53a891-3037-2ec3-e86f-0617c669942d
 ---
@@ -36,7 +40,7 @@ Storytelling in Leadership
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1: Introduction (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec1)
+{{% resource_link 3dad094f-0e37-db00-b8cc-0bde085c8157 "Lecture 1: Introduction (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -48,7 +52,7 @@ Storytelling in Leadership
 Leadership Communication: Understanding Your Communication Style
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2: Communication Styles (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec2)
+{{% resource_link c5d03882-634b-586c-f992-cee035ef2744 "Lecture 2: Communication Styles (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +64,7 @@ Leadership Communication: Understanding Your Communication Style
 Leadership Communication: Crafting Your Vision of Leadership
 {{< tdclose >}}
 {{< tdopen >}}
-[Lectures 3–4: Leadership Stories and Inspiring Others (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec3-4)
+{{% resource_link ab948673-c697-56ee-d593-6083276c32d7 "Lectures 3–4: Leadership Stories and Inspiring Others (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +100,7 @@ No notes
 Leadership Communication: Listening and The Power of Inquiry
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6: Listening and the Power of Inquiry (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec6)
+{{% resource_link a75dcef9-b62f-20fb-b918-5a73409c365b "Lecture 6: Listening and the Power of Inquiry (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +112,7 @@ Leadership Communication: Listening and The Power of Inquiry
 Leadership Communication: Maximizing Feedback Conversations
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7: Maximizing Feedback Conversations (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec7)
+{{% resource_link 829ef5f3-8a05-2939-a4fa-ef1536514444 "Lecture 7: Maximizing Feedback Conversations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +124,7 @@ Leadership Communication: Maximizing Feedback Conversations
 Leadership Communication: Handling Hostility
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8: Handling Hostility (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec8)
+{{% resource_link a600c9d2-90b7-4e64-26d4-d381a8e64054 "Lecture 8: Handling Hostility (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -132,7 +136,7 @@ Leadership Communication: Handling Hostility
 Leadership communication: Working in teams: Part I
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9: Running Effective Meetings (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec9)
+{{% resource_link 426c316a-fd4e-321c-25b8-eccf3eb50acf "Lecture 9: Running Effective Meetings (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -168,7 +172,7 @@ No notes
 Leadership Communication: Working With Teams: Part II
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12: The Belbin Model (PDF)]({{< baseurl >}}/resources/mit15_281s16_lec12)
+{{% resource_link 230b6a5e-6a86-4bc3-e6b1-36edd6821fdc "Lecture 12: The Belbin Model (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
