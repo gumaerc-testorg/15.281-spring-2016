@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-281-advanced-communication-for-leaders-spring-2016/fd308db97c59eea8f2947dfe83f25e4a_MIT15_281S16_Leadership.pdf
+file: /ol-ocw-studio-app/courses/15-281-advanced-communication-for-leaders-spring-2016/fd308db97c59eea8f2947dfe83f25e4a_MIT15_281S16_Leadership.pdf
 file_size: 961641
 file_type: application/pdf
 learning_resource_types:

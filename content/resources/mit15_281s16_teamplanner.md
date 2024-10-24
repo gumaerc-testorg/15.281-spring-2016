@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/15-281-advanced-communication-for-leaders-spring-2016/c8da4250043a1929fa7cae7e9f48f5fa_MIT15_281S16_TeamPlanner.pdf
+file: /ol-ocw-studio-app/courses/15-281-advanced-communication-for-leaders-spring-2016/c8da4250043a1929fa7cae7e9f48f5fa_MIT15_281S16_TeamPlanner.pdf
 file_size: 794158
 file_type: application/pdf
 learning_resource_types:
